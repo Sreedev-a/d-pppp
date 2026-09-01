@@ -1,5 +1,5 @@
 export const profile = {
-  name: "DHRISYA C",
+  name: "Dhrisya C",
   role: "AI/ML Engineer | LLM Evaluation, Prompt Engineering & Agentic AI",
   email: "dhrisya555@gmail.com",
   phone: "+91 6383679955",
