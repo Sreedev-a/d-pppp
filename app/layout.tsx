@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import "./theme.css";
+import "./theme-responsive.css";
 
 export const metadata: Metadata = {
   title:"Dhrisya C | AI/ML Engineer — LLM Evaluation, Agentic AI & RAG",
