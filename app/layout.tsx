@@ -3,6 +3,7 @@ import "./globals.css";
 import "./theme.css";
 import "./theme-responsive.css";
 import "./apple.css";
+import "./hero-name.css";
 
 export const metadata: Metadata = {
   title:"Dhrisya C | AI/ML Engineer — LLM Evaluation, Agentic AI & RAG",
